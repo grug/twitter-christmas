@@ -1,0 +1,8 @@
+[Twitter]
+ConsumerKey: <CONSUMER KEY HERE>
+ConsumerSecret: <CONSUMER SECRET HERE>
+AccessTokenKey: <ACCESS TOKEN KEY HERE>
+AccessTokenSecret: <ACCESS TOKEN SECRET HERE>
+
+[Tweets]
+LastId: 0
