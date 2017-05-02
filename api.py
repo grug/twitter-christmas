@@ -14,7 +14,7 @@ class API:
         self.auth = OAuth1(consumer_key, consumer_secret, access_token_key, access_token_secret)
     
     """
-    GET search/tweets
+    GET search/tweets.
     """
     def searchTweets(self, options):
         url = "https://api.twitter.com/1.1/search/tweets.json"
